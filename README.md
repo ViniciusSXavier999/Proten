@@ -7,7 +7,10 @@
 
 ## TECNOLOGIAS UTILIZADAS 
 
-- Java
-- Spring - Boot
+- Java 17
+- Spring Web
+- Spring Data JPA
+- Maven
 - Banco de dados MYSQL
+- Postman
 
